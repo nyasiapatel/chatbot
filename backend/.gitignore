@@ -1,0 +1,6 @@
+chroma_db/
+data/feedback.json
+__pycache__/
+*.pyc
+.venv/
+venv/

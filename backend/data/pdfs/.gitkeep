@@ -1,0 +1,3 @@
+Drop IIBX PDFs (Trading Guidelines, Byelaws, Circulars, etc.) in this folder,
+then run `python ingest.py` from the backend/ directory to add them to the
+RAG knowledge base alongside the existing iibx_scrape.json corpus.

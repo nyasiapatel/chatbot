@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+requests==2.32.3
+chromadb==0.5.20
+sentence-transformers==3.2.1
+langchain-text-splitters==0.3.0
+langchain-community==0.3.7
+pypdf==5.0.1
+# document ingestion
+pytesseract==0.3.13
+pdfplumber==0.11.4
+PyMuPDF==1.27.2.3
+Pillow==12.2.0
+python-docx==1.1.2
+# file upload support for FastAPI
+python-multipart==0.0.20
